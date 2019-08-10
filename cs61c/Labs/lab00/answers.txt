@@ -1,0 +1,10 @@
+ls -la
+mv filename /path/path
+chmod a +r filename
+pwd
+ping hostname
+Q1. find ./[dirName] -name [filename].txt
+Q2. ompi-ps
+Q3. killall "name"
+Q4. diff [file1] [file2]
+
